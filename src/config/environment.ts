@@ -25,7 +25,7 @@ const development: Environment = {
 };
 
 const production: Environment = {
-  API_URL: 'https://Dietra-backend.azurewebsites.net', // HARDCODED for deployment
+  API_URL: 'https://backend-fq2c.onrender.com', // Deployed backend on Render
   APP_NAME: 'Dietra',
   VERSION: '1.0.0',
   NODE_ENV: 'production',
