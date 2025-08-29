@@ -198,3 +198,4 @@ The application will automatically connect to your deployed backend at:
 **Last Updated**: January 2025
 **Version**: 1.0.0
 **Backend API**: https://backend-fq2c.onrender.com
+

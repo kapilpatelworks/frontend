@@ -104,7 +104,8 @@ dist
 
 # Gatsby files
 .cache/
-public
+# Note: public directory should NOT be ignored for React apps
+# public
 
 # Storybook build outputs
 .out
@@ -113,4 +114,5 @@ public
 # Temporary folders
 tmp/
 temp/
+
 

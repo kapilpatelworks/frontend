@@ -42,3 +42,4 @@ echo "- Environment variables can be set in Netlify dashboard if needed"
 echo "- The netlify.toml file is already configured for optimal deployment"
 echo ""
 echo "🎉 Your frontend is ready for deployment!"
+
